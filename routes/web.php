@@ -6,4 +6,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/profile', [ProfileController::class, 'index'])->name('profile');
+Route::get('/profile', function () {
+    return 'Muhammad Arief Andriansyah 24/545740/SV25748';
+});
