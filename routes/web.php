@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/profile', function () {
-    return 'Muhammad Arief Andriansyah 24/545740/SV25748';
+    return 'Muhammad Arief Andriansyah 24/545740/SV25748 Teknologi Rekayasa Perangkat Lunak Universitas Gadjah Mada';
 });
