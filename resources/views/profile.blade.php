@@ -10,4 +10,9 @@
     <p>Program: {{ $program }}</p>
     <p>Universitas: {{ $university }}</p>
 </body>
+<style>
+    body { font-family: sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; }
+    h1 { color: #2d3748; }
+    p { color: #4a5568; line-height: 1.6; }
+</style>
 </html>
