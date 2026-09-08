@@ -9,7 +9,7 @@
 
 ## Fitur
 
-- **Halaman Profil** (`/profile`) — menampilkan identitas mahasiswa (nama, NIM, program studi, universitas).
+- **Halaman Profil** (`/profile`) — menampilkan identitas mahasiswa (Nama, NIM, Program Studi, Universitas).
 
 ## About Laravel
 
